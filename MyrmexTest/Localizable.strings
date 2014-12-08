@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MyrmexTest
+
+  Created by Julien Chene on 10/09/14.
+  Copyright (c) 2014 JulienChene. All rights reserved.
+*/
+
+"SERVER_ADDRESS" = "http://155.246.201.184:5000";
+
+"LOCATION_URL" = "/addLocation";
+"DEVICE_TOKEN_URL" = "/receiveDeviceToken";
+"SURVEY_URL" = "/receiveUserSurvey";
